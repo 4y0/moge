@@ -1,6 +1,6 @@
 {
   "name": "moge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple directory scaffoledr",
   "scripts": {
     "test": ""
