@@ -1,0 +1,14 @@
+{
+  "name": "moge",
+  "version": "1.0.0",
+  "description": "A simple directory scaffoledr",
+  "scripts": {
+    "test": ""
+  },
+  "author": "4y0",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "moge": "index.js"
+  }
+}
