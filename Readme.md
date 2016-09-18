@@ -20,3 +20,10 @@ directoryname fileename1,filename2,filename3,...filenameN
 		subsubdirectory subsubdirectoryfilename1,subsubdirectoryfilename2...
 anotherdirectoryname anotherdirectoryfilename1,anotherdirectoryfilename2...
 ```
+
+N.B: To create a file directly on the root directory, prepend the file name with a single space (no tabs)
+
+```
+ rootdirectoryfilename.js,rootdirectoryfilename2.css...
+directoryname filename1,filename2...filenameN
+```
