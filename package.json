@@ -5,6 +5,10 @@
   "scripts": {
     "test": ""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4y0/moir.git"
+  },
   "author": "4y0",
   "license": "ISC",
   "preferGlobal": true,
